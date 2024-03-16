@@ -5,3 +5,6 @@ Packed with an array of powerful features, this Java-based Scientific Calculator
 
 Prerequisite:
 To run a JAR file, you need to have Java Runtime Environment (JRE) installed on your computer
+
+
+--->The calculator returns the answers of trigonometric functions in Radian <---
